@@ -1,0 +1,4 @@
+/home/alumnat/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/alumnat/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/alumnat/Documents/pt3m10/intellij/c-plus -B /home/alumnat/Documents/pt3m10/intellij/c-plus/cmake-build-release
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/alumnat/Documents/pt3m10/intellij/c-plus/cmake-build-release

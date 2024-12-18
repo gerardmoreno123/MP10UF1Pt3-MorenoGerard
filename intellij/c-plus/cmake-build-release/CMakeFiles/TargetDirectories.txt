@@ -1,0 +1,3 @@
+/home/alumnat/Documents/pt3m10/intellij/c-plus/cmake-build-release/CMakeFiles/c_plus.dir
+/home/alumnat/Documents/pt3m10/intellij/c-plus/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/alumnat/Documents/pt3m10/intellij/c-plus/cmake-build-release/CMakeFiles/rebuild_cache.dir
